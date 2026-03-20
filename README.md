@@ -1,4 +1,4 @@
-## <div align="center"> Hi there, soy Shery 👋
+## <div align="center"> Hola, soy Shery 👋
 
 
 He decidido dar un giro profesional desde el área de la salud hacia el mundo del desarrollo. Actualmente, me encuentro en una formación para convertirme en Desarrollador Full Stack.
