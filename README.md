@@ -31,3 +31,4 @@ Estoy construyendo mis bases con:
 ![Estadísticas de mi GitHub](https://github-readme-stats.vercel.app/api?username=sherina-29&show_icons=true&theme=radical)
 
 ---
+Probando mi guía de Notion
